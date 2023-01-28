@@ -1,0 +1,57 @@
+*{
+margin: 0;
+font-family: 'IBM Plex Sans', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+    padding: 15px;
+    font-size: 1.5rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+}
+
+.mian-right{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40vw;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.middle-main{
+display: flex;
+padding:50px 20px;
+
+}
+.side{
+    padding: 50px;
+}
+
+h1{
+margin-bottom: 20px;
+}
+
+button{
+    margin-top: 50px;
+    background-color: black;
+    width: 120px;
+    color: white;
+    padding: 10px;
+  
+}
+img{
+   height: 82vh;
+   width: 35vw;
+   padding-top: 20px;
+}
+
